@@ -34,7 +34,7 @@ Atualmente, estou estudando:
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eliazynhohub&show_icons=true&count_private=true&hide=prs&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eliazynho&show_icons=true&count_private=true&hide=prs&theme=dark)
 
 ## 💬 Contato
 
