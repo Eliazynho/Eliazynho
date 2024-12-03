@@ -5,13 +5,12 @@ Sou um desenvolvedor **Full Stack** em aprendizado, apaixonado por tecnologia e 
 
 ## 🔧 Tecnologias & Ferramentas
 
-- **Linguagens**: JavaScript, Python, Java, C++
-- **Frameworks**: React, Node.js, Django, Flask
+- **Linguagens**: JavaScript
+- **Frameworks**: React, Node.js
 - **Banco de Dados**: MySQL, MongoDB
-- **Ferramentas**: Git, Docker, AWS, Jenkins, Kubernetes
-- **IDE/Editor**: Visual Studio Code, IntelliJ IDEA
-- **Outros**: APIs, REST, GraphQL, CI/CD
-
+- **Ferramentas**: Git, Docker, AWS
+- **IDE/Editor**: Visual Studio Code
+- **Outros**: APIs, REST
 ## 🚀 Projetos Recentes
 
 Aqui estão alguns dos meus projetos mais recentes:
