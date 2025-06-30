@@ -1,45 +1,63 @@
 # Olá, eu sou Elias! 👋
 
 🌟 **Sobre Mim**  
-Sou um desenvolvedor **Full Stack** em aprendizado, apaixonado por tecnologia e pela construção de soluções que impactam pessoas. Estou sempre em busca de novos desafios e oportunidades para crescer, colaborar e criar algo inovador.
-
-## 🔧 Tecnologias & Ferramentas
-
-- **Linguagens**: JavaScript
-- **Frameworks**: React, Node.js
-- **Banco de Dados**: MySQL, MongoDB
-- **Ferramentas**: Git, Docker, AWS
-- **IDE/Editor**: Visual Studio Code
-- **Outros**: APIs, REST
-## 🚀 Projetos Recentes
-
-Aqui estão alguns dos meus projetos mais recentes:
-
-- **[QUIZ 90S](https://github.com/Eliazynho/primeiro-rep)**: Quiz 90s projeto para um amigo em andamento.
-- **[Simulador de Bateria](https://github.com/Eliazynho/bateria)**: Simuldador de bateria.
-- **[Validade de Certificado](https://github.com/Eliazynho/certificadovalidador)**: Valida o certificado gerado pelo Photoshop.
-
-## 📚 Estudo Atual
-
-Atualmente, estou estudando:
-
-- **Arquitetura de Software**
-- **Fluxograma**
-- **Desenvolvimento de Aplicações Web Full-Stack**
-
-## 🌐 Conecte-se comigo
-
-- [LinkedIn](https://www.linkedin.com/in/elias-santos-67b5601b7/)
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eliazynho&show_icons=true&count_private=true&hide=prs&theme=dark)
-
-## 💬 Contato
-
-Estou sempre aberto a colaborar em projetos interessantes e aprender novas tecnologias! Se você quiser conversar ou trocar ideias sobre projetos, me mande uma mensagem.
+Sou um desenvolvedor **Full Stack Júnior** fluente em JavaScript e TypeScript, com foco atual em frameworks modernos para desenvolvimento web. Estou dedicado a aprimorar minhas habilidades em **Next.js** e **NestJS**, construindo soluções escaláveis e de alta performance.
 
 ---
 
-*Se você gostar do meu trabalho, fique à vontade para me seguir e contribuir com sugestões ou melhorias!*
+## 🔧 Tecnologias & Ferramentas
 
+- **Linguagens:** JavaScript (fluente), TypeScript (fluente)  
+- **Frontend:** React, Next.js (foco atual), Bootstrap, Material UI  
+- **Backend:** Node.js, NestJS (foco atual), Express  
+- **Banco de Dados:** MySQL, MongoDB, Supabase  
+- **Ferramentas & Serviços:** Git, Docker, AWS, Puppeteer  
+- **Conceitos:** REST APIs, WebSocket, Arquitetura MVC, POO
+
+---
+
+## 🚀 Projetos Recentes
+
+- **Projeto Privado: Cardápio Digital (Next.js + NestJS)**  
+Desenvolvimento de um sistema completo de cardápio digital, inspirado em soluções como iFood, com foco em usabilidade, performance e escalabilidade. O projeto está privado, pois estou avaliando estratégias para levar essa solução ao mercado.
+
+- **[QUIZ 90S](https://github.com/Eliazynho/primeiro-rep)**  
+Projeto de quiz temático dos anos 90 — em desenvolvimento para aprimorar lógica e React.
+
+- **[Simulador de Bateria](https://github.com/Eliazynho/bateria)**  
+Aplicativo que simula o funcionamento de uma bateria, explorando conceitos de frontend interativo.
+
+- **[Validade de Certificado](https://github.com/Eliazynho/certificadovalidador)**  
+Ferramenta para validar certificados gerados no Photoshop, aplicando lógica de verificação de dados.
+
+---
+
+## 📚 Estudos Atuais
+
+- Aprimoramento avançado em **Next.js** e **NestJS**  
+- Arquitetura de Software e boas práticas  
+- Fluxogramas e planejamento de sistemas  
+- Automação com Puppeteer e integração via APIs  
+
+---
+
+## 🌐 Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elias-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/elias-santos-67b5601b7/)
+
+---
+
+## 📈 Minhas Estatísticas no GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eliazynho&show_icons=true&count_private=true&hide=prs&theme=dark)
+
+---
+
+## 💬 Contato
+
+Estou aberto a novas oportunidades, colaborações e troca de conhecimento.  
+Sinta-se à vontade para me chamar para conversar ou trabalhar em projetos juntos!
+
+---
+
+*Se gostou do meu perfil, siga-me e contribua com sugestões para meu crescimento!*
