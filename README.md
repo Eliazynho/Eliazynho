@@ -21,6 +21,9 @@ Sou um desenvolvedor **Full Stack Júnior** fluente em JavaScript e TypeScript, 
 - **Projeto Privado: Cardápio Digital (Next.js + NestJS)**  
 Desenvolvimento de um sistema completo de cardápio digital, inspirado em soluções como iFood, com foco em usabilidade, performance e escalabilidade. O projeto está privado, pois estou avaliando estratégias para levar essa solução ao mercado.
 
+- **[Tiketei (Next.js + NestJS)](https://github.com/tiketei)**  
+Trabalho em formato de entrega para gestão de ingressos e eventos, utilizando Next.js no frontend e NestJS no backend. Projeto disponível no GitHub e em constante evolução.
+
 - **[QUIZ 90S](https://github.com/Eliazynho/primeiro-rep)**  
 Projeto de quiz temático dos anos 90 — em desenvolvimento para aprimorar lógica e React.
 
