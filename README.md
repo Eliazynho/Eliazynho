@@ -21,7 +21,7 @@ Sou um desenvolvedor **Full Stack Júnior** fluente em JavaScript e TypeScript, 
 - **Projeto Privado: Cardápio Digital (Next.js + NestJS)**  
 Desenvolvimento de um sistema completo de cardápio digital, inspirado em soluções como iFood, com foco em usabilidade, performance e escalabilidade. O projeto está privado, pois estou avaliando estratégias para levar essa solução ao mercado.
 
-- **[Tiketei (Next.js + NestJS)](https://github.com/tiketei)**  
+- **[Tiketei (Next.js + NestJS)](https://github.com/Eliazynho/tiketei)**  
 Trabalho em formato de entrega para gestão de ingressos e eventos, utilizando Next.js no frontend e NestJS no backend. Projeto disponível no GitHub e em constante evolução.
 
 - **[QUIZ 90S](https://github.com/Eliazynho/primeiro-rep)**  
@@ -46,7 +46,8 @@ Ferramenta para validar certificados gerados no Photoshop, aplicando lógica de 
 
 ## 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elias-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/elias-santos-67b5601b7/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elias-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/elias-santos-67b5601b7/)  
+[![Instagram](https://img.shields.io/badge/Instagram-@elias.dev__-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/elias.dev_)
 
 ---
 
